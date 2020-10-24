@@ -21,9 +21,10 @@
 
 
 ### Day 3: October 23, Friday
+#####
 
-**Today's Progress**: 
+**Today's Progress**: Added accessories to retro game collector and the ability to associate them with a game. Added accessories to the game detail page.
 
-**Thoughts**:
+**Thoughts**: It has been really tough balancing time and shifting gears between data structures and technical interview question work and actual project work. Moving forward, I plan on deciding exactly what projects and what studying I will be doing at least 1 day in advance to aid in focus.
 
-**Link(s) to work**: 
+**Link(s) to work**: [Retro Game Collector](https://github.com/brianjkelly/retro-game-collector)
