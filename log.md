@@ -28,3 +28,12 @@
 **Thoughts**: It has been really tough balancing time and shifting gears between data structures and technical interview question work and actual project work. Moving forward, I plan on deciding exactly what projects and what studying I will be doing at least 1 day in advance to aid in focus.
 
 **Link(s) to work**: [Retro Game Collector](https://github.com/brianjkelly/retro-game-collector)
+
+### Day 4: October 24, Saturday
+#####
+
+**Today's Progress**: Today I focused primarily on linked lists for technical interview questions. I did clean up some functionality in my portfolio as well in regards to the passing of props for the carousel on my website.
+
+**Thoughts**: Today was a tough day after a late start. Tomorrow will be another challenge to get my coding in coupled with my other daily goals (workout, meditation, and reading) because of NFL so I have structured my day around the NFL games and will get my workouts in beforehand and coding in the evening.
+
+**Link(s) to work**: [My Portfolio](http://www.briankelly.dev)
